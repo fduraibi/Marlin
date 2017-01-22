@@ -48,6 +48,7 @@
 #define BOARD_RAMPS_14_EFF      45   // RAMPS 1.4 (Power outputs: Hotend, Fan0, Fan1)
 #define BOARD_RAMPS_14_EEF      46   // RAMPS 1.4 (Power outputs: Hotend0, Hotend1, Fan)
 #define BOARD_RAMPS_14_SF       48   // RAMPS 1.4 (Power outputs: Spindle, Controller Fan)
+#define BOARD_RAMPS_14plus_BFE  143  // RAMPS 1.4plus (Power outputs: Bed, Fan, Hotend)
 #define BOARD_GEN6              5    // Gen6
 #define BOARD_GEN6_DELUXE       51   // Gen6 deluxe
 #define BOARD_SANGUINOLOLU_11   6    // Sanguinololu < 1.2
